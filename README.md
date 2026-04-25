@@ -10,14 +10,14 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsadullahAlMunib&color=73daca&style=flat&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=AsadullahAlMunib&color=brightgreen&style=flat&label=Profile+Views" />
   <a href="mailto:asadullahweb1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://facebook.com/AsadullahAlMunib"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
   <a href="https://linkedin.com/in/AsadullahAlMunib"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/AsadullahAlMunib"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>
   <a href="https://instagram.com/AsadullahAlMunib"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
   <a href="https://youtube.com/@AsadullahAlMunib"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
-  <a href="https://twitter.com/AsadullahAlMunib"><img src="https://img.shields.io/badge/Twitter/X-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://twitter.com/Asadullah_Munib"><img src="https://img.shields.io/badge/Twitter/X-000000?style=flat&logo=x&logoColor=white" /></a>
 </p>
 
 ---
@@ -95,7 +95,7 @@ mindmap
 ---
 
 ### 📂 Spotlight Projects
-- 🛠️ **[TTAS Animation](https://github.com/AsadullahAlMunib/TTAS-Animation)**: A custom JS library for seamless text-typing effects.
+- 🛠️ **[TTAS Animation](https://asadullahalmunib.github.io/TTAS/)**: A custom JS library for seamless text-typing effects.
 - 🧮 **[Multifunctional Calculator](https://github.com/AsadullahAlMunib/Multifunctional_Calculator)**: A powerful C-language tool with 7 advanced math functions.
 - 📡 **[Ultrasonic Radar](https://github.com/AsadullahAlMunib/Ultrasonic_Radar)**: A hardware-software hybrid built using Arduino.
 - 📁 **[Responsive Portfolio](https://asadullahalmunib.github.io/Portfolio/)**: My full-scale digital showcase.
