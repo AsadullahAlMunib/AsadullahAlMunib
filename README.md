@@ -55,20 +55,22 @@ I am a dedicated student from **Rangpur, Bangladesh**, currently in my first yea
 </p>
 
 ```mermaid
-graph TD;
-    Root(<b>Md Asadullah Al Munib</b>) --> Web[<b>Web Development</b>]
-    Root --> Rob[<b>Robotics & Hardware</b>]
-
-    Web --> FE[Frontend: HTML5, CSS3, JS, Bootstrap]
-    Web --> BE[Backend: PHP, Laravel, MySQL]
-
-    Rob --> Ard[Arduino Programming: C++]
-    Rob --> Clog[Core Logic: C]
-
-    %% Styles
-    style Root fill:#73daca,stroke:#1a1b26,color:#1a1b26
-    style Web fill:#1a1b26,stroke:#73daca,color:#73daca
-    style Rob fill:#1a1b26,stroke:#73daca,color:#73daca
+mindmap
+  root((Md Asadullah Al Munib))
+    ))Robotics((
+      Arduino .ino
+    ))Logical((
+      C
+    ))Web Development((
+      )Frontend(
+        HTML
+        CSS
+        Bootstrap
+        JS
+      )Backend(
+        PHP
+        Laravel
+        MySQL
 ```
 
 ---
