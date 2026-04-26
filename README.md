@@ -65,7 +65,7 @@ mindmap
       )Frontend(
         HTML
         CSS
-				JavaScript
+        JavaScript
         Bootstrap
         Tailwind CSS 
       )Backend(
