@@ -65,8 +65,9 @@ mindmap
       )Frontend(
         HTML
         CSS
+				JavaScript
         Bootstrap
-        JS
+        Tailwind CSS 
       )Backend(
         PHP
         Laravel
