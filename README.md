@@ -55,7 +55,7 @@ I am a dedicated student from **Rangpur, Bangladesh**, currently in my first yea
 </p>
 
 <p align="center">
-<img src="./assets/skills.png" />
+<img src="./assets/skills.svg" />
 </p>
   
 ```mermaid
