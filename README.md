@@ -54,6 +54,10 @@ I am a dedicated student from **Rangpur, Bangladesh**, currently in my first yea
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
+<p align="center">
+<img src="./assets/skills.png" />
+</p>
+  
 ```mermaid
 mindmap
   root((Md Asadullah Al Munib))
